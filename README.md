@@ -3,7 +3,7 @@ Weather project I built while learning web development @IT School.
 
 It uses the API from https://openweathermap.org/api
 
-Functionalities:
+**Functionalities:**
 
 
 <p align="left">Choose your city </p>
