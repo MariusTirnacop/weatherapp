@@ -5,7 +5,14 @@ It uses the API from https://openweathermap.org/api
 
 Functionalities:
 
-Choose your city
-Current weather
-5 days forecast
-Local storage to remember the city name the user set
+
+<p align="left">Choose your city </p>
+
+<p align="left">Current weather</p>
+
+<p align="left">5 days forecast</p>
+
+<p align="left">Local storage to remember the city name the user set</p>
+
+
+https://vremea-pe-5-zile.netlify.app/
